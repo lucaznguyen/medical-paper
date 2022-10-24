@@ -1,4 +1,4 @@
-# SJTU Intern
+# Medical papers
 ## Dataset
 ### Electronic health records
 * EHR Products Used for Meaningful Use Attestation [[data]](https://www.healthit.gov/data/datasets/ehr-products-used-meaningful-use-attestation)

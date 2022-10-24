@@ -1,6 +1,8 @@
 # SJTU Intern
 ## Dataset
 ### Electronic health records
+* EHR Products Used for Meaningful Use Attestation [[data]](https://www.healthit.gov/data/datasets/ehr-products-used-meaningful-use-attestation)
+* EHR Dataset List [[data]](https://data.world/datasets/ehr)
 
 ### Seasonal flu
 * COVID-19 Symptoms Checker [[data]](https://www.kaggle.com/datasets/iamhungundji/covid19-symptoms-checker)

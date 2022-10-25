@@ -4,6 +4,7 @@
 * MIMIC, free available medical data for research [[data]](https://mimic.mit.edu/)
 * EHR Products Used for Meaningful Use Attestation [[data]](https://www.healthit.gov/data/datasets/ehr-products-used-meaningful-use-attestation)
 * EHR Dataset List [[data]](https://data.world/datasets/ehr)
+* eICU Collaborative Research Database [[data]](https://eicu-crd.mit.edu/gettingstarted/access/)
 
 ### Seasonal flu
 * COVID-19 Symptoms Checker [[data]](https://www.kaggle.com/datasets/iamhungundji/covid19-symptoms-checker)

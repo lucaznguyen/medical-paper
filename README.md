@@ -12,6 +12,10 @@
 
 ## Paper
 ### Electronic health records
+* Early detection of sepsis utilizing deep learning on electronic health record event sequences [[paper]](https://www.sciencedirect.com/science/article/pii/S0933365719303173#fn0005)
+* Analyzing the Role of Model Uncertainty for Electronic Health Records [[paper]](https://arxiv.org/abs/1906.03842)
+* Deep learning for electronic health records: A comparative review of multiple deep neural architectures [[paper]](https://www.sciencedirect.com/science/article/pii/S1532046419302564)
+
 ### Seasonal flu
 * Fast COVID-19 versus H1N1 screening using Optimized Parallel Inception [[paper]](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9119711/)
 * Dive into machine learning algorithms for influenza virus host prediction with hemagglutinin sequences [[paper]](https://www.sciencedirect.com/science/article/pii/S030326472200123X)

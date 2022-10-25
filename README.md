@@ -1,6 +1,7 @@
 # Medical papers
 ## Dataset
 ### Electronic health records
+* MIMIC, free available medical data for research [[data]](https://mimic.mit.edu/)
 * EHR Products Used for Meaningful Use Attestation [[data]](https://www.healthit.gov/data/datasets/ehr-products-used-meaningful-use-attestation)
 * EHR Dataset List [[data]](https://data.world/datasets/ehr)
 

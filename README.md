@@ -1,6 +1,12 @@
 # Medical papers
+## GitHub link
+### Electronic health records
+* Clinical data from the MIMIC-II database for a case study on indwelling arterial catheters [[code R]](https://github.com/MIT-LCP/aline-mimic-ii)
+* Explainable Prediction of Medical Codes from Clinical Text [[paper]](https://arxiv.org/abs/1802.05695) [[code]](https://github.com/jamesmullenbach/caml-mimic)
+
 ## Dataset
 ### Electronic health records
+* Explainable Prediction of Medical Codes from Clinical Text [[paper]](https://arxiv.org/abs/1802.05695) [[code]](https://github.com/jamesmullenbach/caml-mimic)
 * Physionet Database [[data]](https://physionet.org/about/database/)
 * MIMIC, free available medical data for research [[data]](https://mimic.mit.edu/)
 ** MIMIC-II Demo [[data](https://www.physionet.org/files/mimic2-iaccd/1.0/full_cohort_data.csv)
@@ -21,6 +27,7 @@
 
 ## Paper
 ### Electronic health records
+* Secondary Analysis of Electronic Health Records [[book]](https://link.springer.com/book/10.1007/978-3-319-43742-2)
 * Early detection of sepsis utilizing deep learning on electronic health record event sequences [[paper]](https://www.sciencedirect.com/science/article/pii/S0933365719303173#fn0005)
 * Analyzing the Role of Model Uncertainty for Electronic Health Records [[paper]](https://arxiv.org/abs/1906.03842)
 * Deep learning for electronic health records: A comparative review of multiple deep neural architectures [[paper]](https://www.sciencedirect.com/science/article/pii/S1532046419302564)
